@@ -1,0 +1,2 @@
+limiter-service.maximum=1000
+limiter-service.minimum=10
